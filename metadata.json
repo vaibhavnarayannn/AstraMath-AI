@@ -1,0 +1,8 @@
+{
+  "name": "AstraMath AI",
+  "description": "A comprehensive, cross-platform AI mathematics tutor and problem solver covering algebra, calculus, graphing, and more with step-by-step explanations.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
